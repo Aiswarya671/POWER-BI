@@ -25,3 +25,12 @@ Use bookmarks and drill-through features for advanced interactivity.
 5. Publish & Share
 Click "Publish" to upload the dashboard to the Power BI Service
 
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5351a7e1-bc77-4899-9417-c8815290368d)
+
+
+
+
+
+
